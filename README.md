@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sergio 👋
 
-<!--
-**sergiowin/sergiowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Intended Major
+**Computer Science**
 
-Here are some ideas to get you started:
+### Projects This Semester
+1. **Course Project: Campus Event Finder (Web App)**  
+   Building a full-stack app that helps students discover events by interest, date, and location.  
+   This project focuses on database design, API development, and a clean user interface.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **Personal Project: Study Planner & Habit Tracker**  
+   Creating a planner that combines weekly study goals with daily habit tracking.  
+   The goal is to practice product design while building something useful for staying consistent.

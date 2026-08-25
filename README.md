@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sergio Nguyen 👋
 
-<!--
-**sergiowin/sergiowin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Intended Major
+**BS in Computer Science**
 
-Here are some ideas to get you started:
+### Projects This Semester
+1. **Research with TARS (Mixed Reality & Data Collection)**  
+   Working with TARS on mixed reality research focused on collecting and organizing high-quality interaction data.  
+   This project emphasizes experiment design, data reliability, and practical MR research workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **Team Project 1: Cross-Functional Collaboration Capstone**  
+   Building a capstone project with a cross-functional team to solve a real problem from planning to delivery.  
+   The focus is on collaboration across roles, communication, and delivering a complete final product.

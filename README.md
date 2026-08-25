@@ -1,13 +1,13 @@
-# Hi, I'm Sergio 👋
+# Hi, I'm Sergio Nguyen 👋
 
 ### Intended Major
-**Computer Science**
+**BS in Computer Science**
 
 ### Projects This Semester
-1. **Course Project: Campus Event Finder (Web App)**  
-   Building a full-stack app that helps students discover events by interest, date, and location.  
-   This project focuses on database design, API development, and a clean user interface.
+1. **Research with TARS (Mixed Reality & Data Collection)**  
+   Working with TARS on mixed reality research focused on collecting and organizing high-quality interaction data.  
+   This project emphasizes experiment design, data reliability, and practical MR research workflows.
 
-2. **Personal Project: Study Planner & Habit Tracker**  
-   Creating a planner that combines weekly study goals with daily habit tracking.  
-   The goal is to practice product design while building something useful for staying consistent.
+2. **Team Project 1: Cross-Functional Collaboration Capstone**  
+   Building a capstone project with a cross-functional team to solve a real problem from planning to delivery.  
+   The focus is on collaboration across roles, communication, and delivering a complete final product.
